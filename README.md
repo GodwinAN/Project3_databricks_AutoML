@@ -1,6 +1,6 @@
 # Project3_databricks_AutoML
 
-## Cloud-based Big Data Systems Project
+## Cloud-based Big Data pipeline Project
 
 - We shall use a Big data system to build a data pipe line
 - Ingest data into databricks
