@@ -23,8 +23,3 @@ my_data = {
 data = pd.DataFrame(data=my_data)
 result = loaded_model.predict(pd.DataFrame(data))
 print(result)
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
